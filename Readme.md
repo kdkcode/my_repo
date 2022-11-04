@@ -1,5 +1,3 @@
-#Git test 파일입니다.
-## git command test
-### source tree
-## github push commit
-## self test
+#아두이노를 이용한 블루투스 스위치
+
+### 불 끄기가 불편하여 아두이노를 이용하여 블루투스 스위치를 만들었습니다.
